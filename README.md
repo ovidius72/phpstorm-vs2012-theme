@@ -35,3 +35,8 @@ Screenshots
 ![img1](https://raw.github.com/ovidius72/phpstorm-vs2012-theme/master/img/img3.png)
 ![img1](https://raw.github.com/ovidius72/phpstorm-vs2012-theme/master/img/img4.png)
 ![img1](https://raw.github.com/ovidius72/phpstorm-vs2012-theme/master/img/img5.png)
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1927d35f2cc6fe25c2e4d600d86572f94437d31a
