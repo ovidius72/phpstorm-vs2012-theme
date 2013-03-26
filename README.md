@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 phpstorm-vs2012-theme
 =====================
 
@@ -30,4 +29,11 @@ Actually it is set to Monaco 15px.
 
 Screenshots
 -----------------
->>>>>>> d31aa7f1b79ba01bc09116e19e6c579382e10d99
+
+![PHP coding](https://raw.github.com/ovidius72/phpstorm-vs2012-theme/master/img/img1.png)
+![img2](https://raw.github.com/ovidius72/phpstorm-vs2012-theme/master/img/img2.png)
+![img1](https://raw.github.com/ovidius72/phpstorm-vs2012-theme/master/img/img3.png)
+![img1](https://raw.github.com/ovidius72/phpstorm-vs2012-theme/master/img/img4.png)
+![img1](https://raw.github.com/ovidius72/phpstorm-vs2012-theme/master/img/img5.png)
+
+
